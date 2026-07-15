@@ -9,6 +9,10 @@ A console-based Student Management System developed in C using Structures, Funct
 - Search Student
 - Update Student
 - Delete Student
+- Binary File Handling
+- Menu Driven Program
+- Data Persistence
+- Search by ID
 
 ## Technologies Used
 
@@ -16,6 +20,17 @@ A console-based Student Management System developed in C using Structures, Funct
 - File Handling
 - Structures
 - Functions
+
+## Screenshots
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Add Student
+![Add Student](screenshots/add_student.png)
+
+### View Students
+![View Students](screenshots/view_students.png)
 
 ## How to Run
 
